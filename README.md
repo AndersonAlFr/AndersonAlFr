@@ -1,5 +1,5 @@
 ## Olá, eu sou o Anderson Almeida
-- 🌱 Estou estudando C#, HTML, CSS e JavaScript.
+- 🌱 Estou estudando C#, HTML, CSS, JavaScript e React.
 - 📚 Cursando Engenharia de Software pela Estácio.
 - 👨‍💻 Procurando oportunidades no ramo de programação.
 
