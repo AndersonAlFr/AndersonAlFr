@@ -20,3 +20,7 @@
   <img align="center" alt="Anderson-WordPress" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">  
 
   ##
+
+  <div style="display: inline_block"><br>
+  <a href="https://www.instagram.com/anderson_almeida_f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-almeida-bb3820233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
